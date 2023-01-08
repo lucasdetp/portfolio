@@ -5,6 +5,8 @@ J'ai décidé de rester sur un thème assez simpliste pour pouvoir le réaliser 
 ma nouvelle entreprise.
 Je pense que cela m'a beaucoup aidé, car il a pu montrer certaines compétences aux différents recruteurs. 
 
+Mon portfolio est accessible à l'adresse suivante : https://www.echeverria-lucas.online
+
 
 Couleurs utilisés : 
 
@@ -36,3 +38,5 @@ est réduit, plus il aura tendance à les associer ensemble (utilisé dans la se
 - La loi de similitude prétend que les éléments qui apparaissent similaires sont perçus comme une seule unité. Ainsi les éléments qui sont par exemple
 de la même couleur, la même forme, ou d'autres caractéristiques communes sont perçus comme appartenant à un ensemble. J'ai pu l'utilisé dans la section
 mes travaux par exemple.
+
+- L’effet Von Restroff pour marquer les éléments importants, utilisé dans la section à propos.
