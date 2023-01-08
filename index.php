@@ -150,7 +150,7 @@ if (isset($_GET['accepte-cookie'])) {
                 <a href="https://github.com/lucasdetp" target="_blank"><img src="img/github.svg" alt="logo github"></a>
             </div>
             <div class="links">
-                <a href="img/ECHEVERRIA_Lucas_CV.pdf" target="_blank">télécharger mon cv</a>
+                <a href="img/ECHEVERRIA_Lucas_CV.pdf" target="_blank">télécharge mon cv</a>
                 <a href="#contact" data-menu="contact" id="contact-me">contact moi</a>
             </div>
         </div>
