@@ -8,9 +8,9 @@ Je pense que cela m'a beaucoup aidé, car il a pu montrer certaines compétences
 
 Couleurs utilisés : 
 
-Couleur principale : #fffff
-Couleur secondaire : #86DEB7
-Couleur du texte : #646464
+ * Couleur principale : #fffff
+ * Couleur secondaire : #86DEB7
+ * Couleur du texte : #646464
 
 Typographie utilisé : 
 
